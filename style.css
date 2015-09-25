@@ -1,0 +1,24 @@
+html{background-color:lightblue;}
+
+.father {width:65%; margin-left:auto; margin-right:auto; height:1400px; position:relative;}
+
+.line{border-bottom:1px solid; width:65%; margin-left:auto; margin-right:auto; height:30px;vertical-align:bottom;}
+
+.cinfo{width:450px; height:190px;}
+.pic{position: absolute; top: -20px; right: 0;width: 150px; height:180px;background-color:white;}
+
+.education{border-right:1px solid; width:100px;margin-left:90px;float:left;height:150px;}
+.education1{width:450px;margin-left:10px;float:left;height:150px;}
+
+.skills{border-right:1px solid; width:100px;margin-left:90px;float:left;height:150px;}
+.skills1{width:450px;margin-left:10px;float:left;height:220px;}
+
+.experience{border-right:1px solid; width:100px;margin-left:90px;float:left;height:150px;}
+.experience1{width:450px;margin-left:10px;float:left;height:90px;}
+
+.hobbies{border-right:1px solid; width:100px;margin-left:90px;float:left;height:150px;}
+.hobbies1{width:450px;margin-left:10px;float:left;height:120px;}
+
+.ref{border-right:1px solid; width:100px;margin-left:90px;float:left;height:150px;}
+.ref1{width:450px;margin-left:10px;float:left;height:90px;}
+
